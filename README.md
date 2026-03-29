@@ -31,14 +31,11 @@
  
  ## 📸 Screenshots
  
- > _Add screenshots of your app here_
- 
- <!-- Replace the lines below with your actual screenshots -->
- <!-- ![Home Page](screenshots/home.png) -->
- <!-- ![Audio Processing](screenshots/audio.png) -->
- <!-- ![Chatbot](screenshots/chatbot.png) -->
- 
- ---
+ ![Login](screenshots/login.png.png)
+![Chatbot](screenshots/chatbot.png.png)
+![Summary & Keyword](screenshots/summary&keyword.png.png)
+![Transcription](screenshots/transcription.png.png)
+![Video Upload](screenshots/video_upload.png.png)
  
  ## ⚙️ How to Run Locally
  
