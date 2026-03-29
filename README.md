@@ -31,12 +31,12 @@
  
  ## 📸 Screenshots
  
- ![Login](screenshots/login.png.png)
-![Chatbot](screenshots/chatbot.png.png)
-![Summary & Keyword](screenshots/summary&keyword.png.png)
+![Login](screenshots/login.png.png)
 ![Transcription](screenshots/transcription.png.png)
 ![Video Upload](screenshots/video_upload.png.png)
- 
+![Summary & Keyword](screenshots/summary&keyword.png.png)
+![Chatbot](screenshots/chatbot.png.png)
+
  ## ⚙️ How to Run Locally
  
  **1. Clone the repository**
