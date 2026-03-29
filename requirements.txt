@@ -1,0 +1,8 @@
+streamlit 
+faster-whisper 
+nltk
+scikit-learn 
+reportlab 
+ollama 
+yt-dlp 
+deep_translator 

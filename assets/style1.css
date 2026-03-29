@@ -1,0 +1,24 @@
+body {
+    background-color: #1674da;
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+    font-size: medium;
+}
+
+h1, h2, h3 {
+    color: #013249;
+}
+
+.stButton>button {
+    background-color: #df3350;
+    color: #ffffff;
+    border-radius: 8px;
+    padding: 8px 20px;
+}
+
+.stTextInput>div>input {
+    background-color: #415a77;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 5px;
+}
